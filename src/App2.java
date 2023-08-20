@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
 public class App2 {
+
+     static void myMethod(){
+        String mySchool = "Losone";
+        System.out.println(mySchool);
+        }3
+
     public static void main (String[] arg) throws Exception{
         int x = 1;
         int y = 2;
@@ -55,5 +61,14 @@ public class App2 {
         else
         System.out.println(number);
         // most specific statment has to be on the top and the most generic ont he bottom so correct should be fizzbuzz on top 
+
+
+        // call the method
+        myMethod();
+       
+
+
+
+
     }
 }
