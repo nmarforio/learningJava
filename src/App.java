@@ -3,9 +3,12 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.Scanner;
 
+// Java works with classes, without isn't working! the Class name need to be the same as the File.java
+
 public class App {
     // TO RUN JAVA USE F5
     // static always for main and void cause the function main does not return anything
+    // main() method is required to work
     public static void main(String[] args) throws Exception {
 
        
